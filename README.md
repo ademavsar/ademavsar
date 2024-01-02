@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 Electrical-Electronics Engineer | Security Analyst
 ---
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ademavsar/)[![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/avsar)[![Letsdefend](https://img.shields.io/badge/letsdefend-335EEA?style=for-the-badge&logo=cyberdefenders)](https://app.letsdefend.io/user/avsar)[![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=Medium)](https://medium.com/@avsar) 
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ademavsar/)[![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/avsar)[![Letsdefend](https://img.shields.io/badge/letsdefend-335EEA?style=for-the-badge&logo=cyberdefenders)](https://app.letsdefend.io/user/avsar)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning 
