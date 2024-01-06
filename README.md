@@ -18,6 +18,6 @@ Electrical-Electronics Engineer<br>
 Security Analyst
 <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
 ---
-[![Linkedin](https://img.shields.io/badge/Linkedin -0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ademavsar/)<br>
+[![Linkedin](https://img.shields.io/badge/Linkedin1-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ademavsar/)<br>
 [![TryHackMe](https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/avsar)<br>
 [![Letsdefend](https://img.shields.io/badge/letsdefend-335EEA?style=for-the-badge&logo=cyberdefenders)](https://app.letsdefend.io/user/avsar)
