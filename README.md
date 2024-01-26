@@ -1,9 +1,8 @@
 ### Hi there 👋🏼
 
 
-Electrical-Electronics Engineer
+electrical-electronics engineer
 <br>
-Security Analyst
 
 ![gif](/owk.gif)
 
