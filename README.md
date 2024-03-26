@@ -1,5 +1,4 @@
-![gif](/owk.gif) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademavsar&layout=compact&langs_count=10)
+![gif](/owk.gif) &emsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademavsar&layout=compact&langs_count=10)
 
 <br>
 
