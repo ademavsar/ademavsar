@@ -1,10 +1,5 @@
-### hi there 👋🏼
-
-
-electrical-electronics engineer
-<br>
-
-![gif](/owk.gif)
+![gif](/owk.gif) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademavsar&layout=compact&langs_count=10)
 
 <br>
 
